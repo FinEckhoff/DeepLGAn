@@ -1,0 +1,7 @@
+.ipynb_checkpoints/*
+celebA/*
+converted/*
+cpimages/*
+mnist.npz
+training_checkpoints/*
+!training_checkpoints/ckpt-24*
