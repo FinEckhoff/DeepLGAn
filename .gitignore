@@ -5,3 +5,7 @@ cpimages/*
 mnist.npz
 training_checkpoints/*
 !training_checkpoints/ckpt-24*
+training_checkpoints64/
+cpimages64/
+test56.png
+output64.gif
